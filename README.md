@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1310sandy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning basic of c,python,java and persuing BTech cse
 - 💞️ I’m looking to collaborate on teamates
 - 📫 How to reach me snadeepkumar822@gmail.com
 
